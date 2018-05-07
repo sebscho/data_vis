@@ -27,13 +27,12 @@
     {"id": "Charlie Musselwhite", "instrument": "Harmonica"},
     {"id": "Howlin Wolf", "instrument": "Harmonica"},
     {"id": "Paul Butterfield", "instrument": "Harmonica"},
-
     {"id": "John Coltrane", "instrument": "Sax"},
     {"id": "Eddie Cleanhead Vinson", "instrument": "Sax"},
     {"id": "Leadbelly", "instrument": "Acordian"},
     {"id": "Big Mama Thornton", "instrument": "Drums"},
     {"id": "Miles Davis", "instrument": "Trumpet"},
-    {"id": "Dizzy Gillespie", "instrument": "Trumpet"},
+    {"id": "Dizzy Gillespie", "instrument": "Trumpet"}
   ],
   "links": [
     
@@ -94,7 +93,6 @@
     {"source": "Furry Lewis", "target": "John Lee Hooker", "value": 1},
     {"source": "Furry Lewis", "target": "Albert King", "value": 1},
     {"source": "Eddie Cleanhead Vinson", "target": "Lightin' Hopkins", "value": 1},
-    
     {"source": "Eddie Cleanhead Vinson", "target": "Lightin' Hopkins", "value": 1},
     {"source": "Eddie Cleanhead Vinson", "target": "Miles Davis", "value": 1}, 
     {"source": "Eddie Cleanhead Vinson", "target": "John Coltrane", "value": 1},
@@ -114,8 +112,6 @@
     {"source": "Dizzy Gillespie", "target": "Charles Mingus", "value": 1},
     {"source": "Paul Butterfield", "target": "Robert Johnson", "value": 1},
     {"source": "Leadbelly", "target": "Robert Johnson", "value": 1},
-    
-    
     {"source": "Paul Butterfield", "target": "Muddy Waters", "value": 1},
     {"source": "Paul Butterfield", "target": "Eric Clapton", "value": 1},
     {"source": "Paul Butterfield", "target": "John Mayall", "value": 1},
@@ -132,6 +128,6 @@
     {"source": "Eric Clapton", "target": "Peter Green", "value": 3},
     {"source": "Rick Danko", "target": "Peter Green", "value": 3},
     {"source": "Mick Taylor", "target": "Eric Clapton", "value": 3},
-    {"source": "Rick Danko", "target": "Eric Clapton", "value": 3}, 
+    {"source": "Rick Danko", "target": "Eric Clapton", "value": 3} 
       ]
 };
